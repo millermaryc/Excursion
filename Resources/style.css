@@ -1,3 +1,6 @@
+body {
+  background-color: black;
+}
 .title {
   color: white;
   font-family: verdana;
@@ -18,7 +21,8 @@ h2 {
   font-size: 16px;
   text-align: center;
 }
-.description, .copyright {
+.description,
+.copyright {
   color: gray;
   font-family: verdana;
   font-size: 21px;
