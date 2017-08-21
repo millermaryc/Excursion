@@ -1,4 +1,4 @@
-body {
+
   background-color: black;
 }
 
@@ -23,5 +23,10 @@ h2 {
   color: aquamarine;
 }
 p {
-  color: white;
+  color: gray;
+  font-family: verdana;
+  font-size: 21px;
+}
+.copyright {
+  text-align: right
 }
